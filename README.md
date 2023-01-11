@@ -16,7 +16,7 @@ Antes de arrancar, les dejo algunas recomendaciones (de un estudiante a otro):
 
 # Presentación:
 
-//ENLACE//
+[Enlace a la presentación](https://docs.google.com/presentation/d/1shFzMBrTle53-bb5mjrm-jOxpS9mPfevykJMxmQdi3Y/edit?usp=sharing)
 
 # Herramientas:
 
