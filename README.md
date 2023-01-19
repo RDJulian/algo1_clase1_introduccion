@@ -1,4 +1,4 @@
-# Clase 1: Introducción
+# Clase 2: Introducción - Funciones
 
 ¡Bienvenidos al Curso de Verano de AYP1!
 
