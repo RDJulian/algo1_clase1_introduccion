@@ -1,9 +1,4 @@
-def calcular_area_rectangulo(base: float, altura: float) -> float:
-    return base * altura
-
-
-def calcular_area_triangulo(base: float, altura: float) -> float:
-    return base * altura / 2
+from areas import calcular_area_triangulo, calcular_area_rectangulo
 
 
 def main():
